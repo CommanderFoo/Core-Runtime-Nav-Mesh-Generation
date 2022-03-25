@@ -1,0 +1,14 @@
+Assets {
+  Id: 1497262145404271015
+  Name: "DDPerfTimer"
+  PlatformAssetType: 3
+  TextAsset {
+    CustomParameters {
+    }
+  }
+  Marketplace {
+    Description: "Something"
+  }
+  SerializationVersion: 108
+  DirectlyPublished: true
+}
